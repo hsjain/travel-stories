@@ -25,6 +25,4 @@ function App() {
   );
 }
 
-//to run backend scripts/start = nodemon index.js
-
 export default App;
